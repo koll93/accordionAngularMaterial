@@ -1,0 +1,5 @@
+button {white-space: normal; font-size: 15px; line-height:1;
+  padding: 15px 15px; background: #e3f3ff; border: 2px solid #b9ebff; width: 100%}
+
+mat-expansion-panel-header {height: unset !important; white-space: normal; padding: 15px 15px;}
+
